@@ -1,4 +1,10 @@
-# Oca-Playground
+# UNMAINTAINED - Oca-Playground
+
+**This is a side project of a former e-ID team member and the code is not maintained anymore.**
+
+**The security issues and pull requests will not be processed**
+
+**If you would like to maintain this project, please raise an issue in the [community repository](https://github.com/swiyu-admin-ch/community/issues).**
 
 This project proposes an interactive playground to test OCA to visualize Verifiable Credentials.
 The playground follows the following technical specifications: [VC visualization with OCA](https://github.com/e-id-admin/open-source-community/blob/main/tech-roadmap/rfcs/oca/spec.md).
